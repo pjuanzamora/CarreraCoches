@@ -5,5 +5,5 @@ package carrera;
  *
  */
 public class Coche {
-
+	private String piloto;
 }
